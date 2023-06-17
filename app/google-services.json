@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492195668626",
+    "project_id": "pharmacie-c1427",
+    "storage_bucket": "pharmacie-c1427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492195668626:android:c1d28c22c4fa03c1e77c4b",
+        "android_client_info": {
+          "package_name": "my.gamekarimbull_cow.pharmacie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492195668626-os9gacn9r7l6050g718h8aj5eii41i39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUyCTiUIGa_yEtIL73Hz3b-8rIm0KswsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492195668626-os9gacn9r7l6050g718h8aj5eii41i39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+#Mon Jun 13 12:33:25 WAT 2022
+base.1=D\:\\flutterProjets\\flutterLern\\Pharmacie\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\flutterProjets\\flutterLern\\Pharmacie\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">492195668626-os9gacn9r7l6050g718h8aj5eii41i39.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">492195668626</string>
+    <string name="google_api_key" translatable="false">AIzaSyCUyCTiUIGa_yEtIL73Hz3b-8rIm0KswsU</string>
+    <string name="google_app_id" translatable="false">1:492195668626:android:c1d28c22c4fa03c1e77c4b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUyCTiUIGa_yEtIL73Hz3b-8rIm0KswsU</string>
+    <string name="google_storage_bucket" translatable="false">pharmacie-c1427.appspot.com</string>
+    <string name="project_id" translatable="false">pharmacie-c1427</string>
+</resources>
